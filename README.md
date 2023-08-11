@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on webhelp as a Workforce cordinator and BPO data analysis
+- 🔭 I’m currently working as a Workforce cordinator and BPO data analysis
 - 🌱 I’m currently learning Power BI, python for data science and nodejs / pupeeteer for workflow automatizations
 - 📫 How to reach me at discord Natzugen
